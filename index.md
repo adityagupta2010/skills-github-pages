@@ -1,11 +1,10 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="Personal webpage for showcasing my work and skills.">
-  Personal Website
+Personal Website
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -31,7 +30,7 @@
   <section id="about">
     <div class="container">
       <h2>About Me</h2>
-      <p>Write a brief introduction about yourself, your background, and what you're passionate about.</p>
+      <p> Hi, I am currently studying in class 9.</p>
     </div>
   </section>
 

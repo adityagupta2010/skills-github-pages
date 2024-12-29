@@ -13,8 +13,8 @@
   <!-- Header -->
   <header>
     <div class="container">
-      <h1>Your Name</h1>
-      <p>Your tagline or profession</p>
+      <h1>Aditya Gupta</h1>
+      <p>Student</p>
     </div>
   </header>
 

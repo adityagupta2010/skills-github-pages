@@ -1,9 +1,9 @@
 <html lang="en">
 <head>
-  my webpage
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="Personal webpage for showcasing my work and skills.">
+  <title>Personal Website</title>
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -76,7 +76,7 @@
   <!-- Footer -->
   <footer>
     <div class="container">
-      <p>&copy; 2024 Your Name. All rights reserved.</p>
+      <p>&copy; 2024 Aditya Gupta. All rights reserved.</p>
     </div>
   </footer>
 

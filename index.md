@@ -5,7 +5,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="Personal webpage for showcasing my work and skills.">
-  <title>Your Name - Personal Website</title>
+  <title> Aditya Gupta - Personal Website</title>
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>

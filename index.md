@@ -5,7 +5,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="Personal webpage for showcasing my work and skills.">
-  Aditya Gupta - Personal Website
+  Personal Website
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -13,8 +13,8 @@
   <!-- Header -->
   <header>
     <div class="container">
-      <h1>Your Name</h1>
-      <p>Your tagline or profession</p>
+      <h1>Aditya Gupta</h1>
+      <p>Student</p>
     </div>
   </header>
 
